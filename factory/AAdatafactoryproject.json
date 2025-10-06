@@ -1,0 +1,9 @@
+{
+	"name": "AAdatafactoryproject",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3742e1fc-3382-4d5b-99c9-924639748aa1",
+		"tenantId": "2c9ee240-0daa-4b55-b3c4-151e22bd0f1c"
+	}
+}

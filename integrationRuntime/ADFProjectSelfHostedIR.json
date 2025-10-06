@@ -1,0 +1,6 @@
+{
+	"name": "ADFProjectSelfHostedIR",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
